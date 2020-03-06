@@ -548,5 +548,6 @@ nav {
 .post1{
     width: 100%;
     height: 70%;
-    background:url('../img/1.jpg') center/cover;
+    margin-top: 3.4%;
+    background:url('../img/1.jpeg') center/cover;
 }
